@@ -1,0 +1,7 @@
+name: VoteRanks
+main: com.thestratagemmc.voteranks.VoteRanks
+author: akselm
+version: 1.0
+commands:
+  vote:
+  votes:
